@@ -1,4 +1,4 @@
-# Skills & Salary Analysis Project
+# Data Skills vs Salary: An Excel-Powered Job Market Analysis Project
 
 ## Introduction
 
