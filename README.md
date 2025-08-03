@@ -83,7 +83,7 @@ Both transformed queries were loaded into the workbook to support the analysis:
 
   <img width="771" height="500" alt="Do more skills get you better pay image" src="https://github.com/user-attachments/assets/3a741bc7-d1fe-428b-85a8-0f5f22581a58" />
 
-#### 🤔 So What
+#### 🗝️ Why It Matters
 
 This trend highlights the advantage of developing a broader skill set — particularly for professionals targeting higher-paying roles in data.
 
@@ -120,7 +120,8 @@ This trend highlights the advantage of developing a broader skill set — partic
 
     <img width="884" height="298" alt="median salaries table" src="https://github.com/user-attachments/assets/9d709d0c-4d0a-4508-bcef-9633fc018c49" />
 
-#### 🤔 So What
+#### 🗝️ Why It Matters
+
 These findings can guide salary benchmarking and job search strategies by accounting for regional pay differences — crucial for both professionals and employers navigating a global talent market.
 
 ## 3️⃣ What are the top skills of data professionals?
@@ -156,9 +157,9 @@ These findings can guide salary benchmarking and job search strategies by accoun
 
   <img width="659" height="436" alt="what are the top skills of data nerds" src="https://github.com/user-attachments/assets/59cdbca8-54f3-46a9-b037-09590ea463c6" />
 
-#### 🤔 So What
+#### 🗝️ Why It Matters
 
-- Recognizing in-demand skills like SQL and Python helps professionals stay competitive and guides training efforts toward the most valuable technologies.
+Recognizing in-demand skills like SQL and Python helps professionals stay competitive and guides training efforts toward the most valuable technologies.
 
 ## 4️⃣ What’s the pay of the top 10 skills?
 
@@ -184,9 +185,9 @@ These findings can guide salary benchmarking and job search strategies by accoun
 
   <img width="738" height="438" alt="what is the pay of the top 10 skills" src="https://github.com/user-attachments/assets/8f94a502-4726-45c6-b71a-30bb3fcba679" />
 
-#### 🤔 So What
+#### 🗝️ Why It Matters
 
-- This chart shows the value of learning high-impact skills like Python and SQL, which are closely tied to higher salaries. For anyone aiming to grow in tech or increase earnings, focusing on in-demand tools is a smart move.
+This chart shows the value of learning high-impact skills like Python and SQL, which are closely tied to higher salaries. For anyone aiming to grow in tech or increase earnings, focusing on in-demand tools is a smart move.
 
 ## 🧾 Conclusion
 
