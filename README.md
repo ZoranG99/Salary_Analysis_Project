@@ -85,7 +85,7 @@ Both transformed queries were loaded into the workbook to support the analysis:
 
 #### 🗝️ Why It Matters
 
-This trend highlights the advantage of developing a broader skill set — particularly for professionals targeting higher-paying roles in data.
+- This trend highlights the advantage of developing a broader skill set — particularly for professionals targeting higher-paying roles in data.
 
 ## 2️⃣ What’s the salary for data jobs in different regions?
 
@@ -122,7 +122,7 @@ This trend highlights the advantage of developing a broader skill set — partic
 
 #### 🗝️ Why It Matters
 
-These findings can guide salary benchmarking and job search strategies by accounting for regional pay differences — crucial for both professionals and employers navigating a global talent market.
+- These findings can guide salary benchmarking and job search strategies by accounting for regional pay differences — crucial for both professionals and employers navigating a global talent market.
 
 ## 3️⃣ What are the top skills of data professionals?
 
@@ -159,7 +159,7 @@ These findings can guide salary benchmarking and job search strategies by accoun
 
 #### 🗝️ Why It Matters
 
-Recognizing in-demand skills like SQL and Python helps professionals stay competitive and guides training efforts toward the most valuable technologies.
+- Recognizing in-demand skills like SQL and Python helps professionals stay competitive and guides training efforts toward the most valuable technologies.
 
 ## 4️⃣ What’s the pay of the top 10 skills?
 
@@ -187,7 +187,7 @@ Recognizing in-demand skills like SQL and Python helps professionals stay compet
 
 #### 🗝️ Why It Matters
 
-This chart shows the value of learning high-impact skills like Python and SQL, which are closely tied to higher salaries. For anyone aiming to grow in tech or increase earnings, focusing on in-demand tools is a smart move.
+- This chart shows the value of learning high-impact skills like Python and SQL, which are closely tied to higher salaries. For anyone aiming to grow in tech or increase earnings, focusing on in-demand tools is a smart move.
 
 ## 🧾 Conclusion
 
