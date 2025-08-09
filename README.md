@@ -3,26 +3,10 @@
 # Table of Contents
 
 1. [Introduction](#introduction)  
-    1.1 [Questions to Analyze](#questions-to-analyze)  
-    1.2 [Excel Skills Used](#excel-skills-used)  
-    1.3 [Dataset Overview](#dataset-overview)  
-
 2. [Do More Skills Get You Better Pay?](#1-do-more-skills-get-you-better-pay)  
-    2.1 [Skill: Power Query (ETL)](#skill-power-query-etl)  
-    2.2 [Analysis](#analysis)  
-
 3. [What’s the Salary for Data Jobs in Different Regions?](#2-whats-the-salary-for-data-jobs-in-different-regions)  
-    3.1 [Skills: PivotTables & DAX](#skills-pivottables--dax)  
-    3.2 [Analysis](#analysis-1)  
-
-4. [What Are the Top Skills of Data Professionals?](#3-what-are-the-top-skills-of-data-professionals)  
-    4.1 [Skill: Power Pivot](#skill-power-pivot)  
-     4.2 [Analysis](#analysis-2)  
-
+4. [What Are the Top Skills of Data Professionals?](#3-what-are-the-top-skills-of-data-professionals)   
 5. [What’s the Pay of the Top 10 Skills?](#4-whats-the-pay-of-the-top-10-skills)  
-    5.1 [Skill: Advanced Charts (PivotChart)](#skill-advanced-charts-pivotchart)  
-    5.2 [Analysis](#analysis-3)  
-
 6. [Conclusion](#conclusion)
 
 ## Introduction
