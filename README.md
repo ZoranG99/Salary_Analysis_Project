@@ -1,12 +1,12 @@
 # Data Skills vs Salary: An Excel-Powered Job Market Analysis Project
 
-# Table of Contents
+## Table of Contents
 
 1. [Introduction](#introduction)  
-2. [Do More Skills Get You Better Pay?](#1-do-more-skills-get-you-better-pay)  
-3. [What’s the Salary for Data Jobs in Different Regions?](#2-whats-the-salary-for-data-jobs-in-different-regions)  
-4. [What Are the Top Skills of Data Professionals?](#3-what-are-the-top-skills-of-data-professionals)   
-5. [What’s the Pay of the Top 10 Skills?](#4-whats-the-pay-of-the-top-10-skills)  
+2. [Do More Skills Get You Better Pay?](#do-more-skills-get-you-better-pay)  
+3. [What’s the Salary for Data Jobs in Different Regions?](#whats-the-salary-for-data-jobs-in-different-regions)  
+4. [What Are the Top Skills of Data Professionals?](#what-are-the-top-skills-of-data-professionals)   
+5. [What’s the Pay of the Top 10 Skills?](#whats-the-pay-of-the-top-10-skills)  
 6. [Conclusion](#conclusion)
 
 ## Introduction
@@ -41,7 +41,7 @@ This project utilizes a dataset containing real job listings and salary informat
 - **Locations**  
 - **Skills**
 
-## 1. Do more skills get you better pay?
+## Do more skills get you better pay?
 
 ### Skill: Power Query (ETL)
 
@@ -96,7 +96,7 @@ Both transformed queries were loaded into the workbook to support the analysis:
 
 - This trend highlights the advantage of developing a broader skill set — particularly for professionals targeting higher-paying roles in data.
 
-## 2. What’s the salary for data jobs in different regions?
+## What’s the salary for data jobs in different regions?
 
 ### Skills: PivotTables & DAX
 
@@ -133,7 +133,7 @@ Both transformed queries were loaded into the workbook to support the analysis:
 
 - These findings can guide salary benchmarking and job search strategies by accounting for regional pay differences — crucial for both professionals and employers navigating a global talent market.
 
-## 3. What are the top skills of data professionals?
+## What are the top skills of data professionals?
 
 ### Skill: Power Pivot
 
@@ -170,7 +170,7 @@ Both transformed queries were loaded into the workbook to support the analysis:
 
 - Recognizing in-demand skills like SQL and Python helps professionals stay competitive and guides training efforts toward the most valuable technologies.
 
-## 4. What’s the pay of the top 10 skills?
+## What’s the pay of the top 10 skills?
 
 ### Skill: Advanced Charts (PivotChart)
 
